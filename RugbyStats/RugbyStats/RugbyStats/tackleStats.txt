@@ -1,0 +1,8 @@
+-nan(ind) percent of player miss zero tackles  
+-nan(ind) percent of player miss 0 - 3  tackles
+-nan(ind) percent of player miss 3 - 5  tackles
+-nan(ind) percent of player miss over 5 tackles
+0.00 percent of player miss zero tackles  
+0.00 percent of player miss 0 - 3  tackles
+100.00 percent of player miss 3 - 5  tackles
+0.00 percent of player miss over 5 tackles
