@@ -1,0 +1,17 @@
+﻿  bingo1.c
+c:\users\ray\desktop\bingo\bingo\bingo\bingo1.c(15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ray\desktop\bingo\bingo\bingo\bingo1.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\ray\desktop\bingo\bingo\bingo\bingo1.c(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\ray\desktop\bingo\bingo\bingo\bingo1.c(51): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\ray\desktop\bingo\bingo\bingo\bingo1.c(21): warning C4101: 'number': unreferenced local variable
+c:\users\ray\desktop\bingo\bingo\bingo\bingo1.c(64): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\ray\desktop\bingo\bingo\bingo\bingo1.c(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\ray\desktop\bingo\bingo\bingo\bingo1.c(218): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  bingo.vcxproj -> C:\Users\Ray\Desktop\bingo\bingo\Debug\bingo.exe
+  bingo.vcxproj -> C:\Users\Ray\Desktop\bingo\bingo\Debug\bingo.pdb (Full PDB)
